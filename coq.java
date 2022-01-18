@@ -1,4 +1,4 @@
-public class Coq 
+public class Coq extends Animal
 {
-    
+
 }
