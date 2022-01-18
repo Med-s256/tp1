@@ -1,3 +1,4 @@
+package exercice1;
 public class Principale{
     Principale(){
         System.out.println(" voici je suis dans la classe principale");
