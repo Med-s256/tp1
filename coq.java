@@ -1,3 +1,4 @@
+Package exercice1;
 public class Coq extends Animal
 {
     Coq () {
