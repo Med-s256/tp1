@@ -4,6 +4,6 @@ public class Animal {
     
     public Animal (String name,int nombrePied) {
         this.name = name;
-	this.nombeePied = nombrePied;
+	this.nombrePied = nombrePied;
     }
 }
